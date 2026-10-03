@@ -1,8 +1,8 @@
 {
-  "versionCode": 32,
-  "versionName": "0.12.1",
+  "versionCode": 33,
+  "versionName": "0.13.0",
   "apkUrl": "https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk",
-  "sha256": "BD3A7F614BA43716BADD5745515C9C1EC5A8988D9444C64464FA357F2C23E788",
-  "sizeBytes": 1843613,
-  "notes": "重做模型详情能力雷达：显示维度、百分位与排名，优化标签排版、渐变填充和数据来源展示。"
+  "sha256": "FE4D4687ABFBCF139D54A9F6FA345355EBE0B2FE2C6A1F9A8897E0307A1C065B",
+  "sizeBytes": 1859997,
+  "notes": "重构设置页，新增启动榜单、紧凑列表、榜单速览开关、快照更新频率、收藏导入导出、缓存清理和设置重置。"
 }
