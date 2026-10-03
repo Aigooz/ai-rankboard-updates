@@ -1,8 +1,8 @@
 {
-  "versionCode": 34,
-  "versionName": "0.14.0",
+  "versionCode": 35,
+  "versionName": "0.14.1",
   "apkUrl": "https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk",
-  "sha256": "D9D73B2BCFFB394EA06A2EEAFE80E28D48285AE9556441ED0A74335B0547D94D",
-  "sizeBytes": 1876381,
-  "notes": "新增智能选型、成本预估、最省钱方案和最新模型视图。"
+  "sha256": "52CC3825EB418D52744D76BC0498182C62E5E663CCA7D502F717D498B3FFD734",
+  "sizeBytes": 1876377,
+  "notes": "成本预估单位统一为百万 token，减少大数字输入。"
 }
