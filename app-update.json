@@ -1,8 +1,8 @@
 {
-  "versionCode": 33,
-  "versionName": "0.13.0",
+  "versionCode": 34,
+  "versionName": "0.14.0",
   "apkUrl": "https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk",
-  "sha256": "FE4D4687ABFBCF139D54A9F6FA345355EBE0B2FE2C6A1F9A8897E0307A1C065B",
-  "sizeBytes": 1859997,
-  "notes": "重构设置页，新增启动榜单、紧凑列表、榜单速览开关、快照更新频率、收藏导入导出、缓存清理和设置重置。"
+  "sha256": "D9D73B2BCFFB394EA06A2EEAFE80E28D48285AE9556441ED0A74335B0547D94D",
+  "sizeBytes": 1876381,
+  "notes": "新增智能选型、成本预估、最省钱方案和最新模型视图。"
 }
