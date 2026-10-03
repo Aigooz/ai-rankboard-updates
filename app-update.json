@@ -1,8 +1,8 @@
 {
-  "versionCode": 23,
-  "versionName": "0.10.4",
+  "versionCode": 24,
+  "versionName": "0.10.5",
   "apkUrl": "https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk",
-  "sha256": "E175F26E712FAD8DE52939F291DC8BF180F3C9F2ADF45F99CCADCCC53F36F3D9",
+  "sha256": "77E0B4AE8D64231ED023CEEF0BF196054577E6A0FCD571D31ED256A1D429FFBF",
   "sizeBytes": 1794461,
-  "notes": "修复首页顶部出现双倍状态栏间距的问题，移除多余标题占位，让搜索框更贴近屏幕顶部。"
+  "notes": "修复搜索后模型排名被重新编号的问题，现在会保留模型在原始榜单中的排名。"
 }
