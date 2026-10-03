@@ -1,10 +1,14 @@
 {
-  "versionCode": 36,
-  "versionName": "0.15.0",
+  "versionCode": 37,
+  "versionName": "0.15.1",
   "apkUrl": "https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk",
-  "sha256": "5ED6A19482F55B50ACD2D27841D2E3AC0769AD558FA8F17BF9F2FC3C988BD887",
+  "mirrorUrls": [
+    "https://ghfast.top/https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk",
+    "https://gh-proxy.com/https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk"
+  ],
+  "sha256": "EBA7AC535CDCAC74C4F5B3BBF22B440E7DA1F94AADDC00890CFA3ABF2441D69A",
   "sizeBytes": 1876381,
-  "notes": "全面重设计界面：统一卡片、间距、配色与字体层级，重排首页和详情页，提升对比页观感。",
+  "notes": "新增 APK 镜像下载源：主源过慢时自动切换镜像，减少几 KB/s 的更新等待。",
   "iosVersionCode": 35,
   "iosVersionName": "0.14.1",
   "iosNotes": "iOS 版本号与 Android 同步到 v0.14.1；启动时自动检查榜单更新，设置页新增应用更新检查。",
