@@ -1,14 +1,14 @@
 {
-  "versionCode": 42,
-  "versionName": "0.16.0",
+  "versionCode": 43,
+  "versionName": "0.16.1",
   "apkUrl": "https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk",
   "mirrorUrls": [
     "https://ghfast.top/https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk",
     "https://gh-proxy.com/https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk"
   ],
-  "sha256": "A9F79A2DA9DC1688D27015CBF18D99060E22514C6E4705C0A2F660C76211E476",
+  "sha256": "CC031E414E11BF31617DF791B94C264C7A8095753CC4B79FACC9F77624995882",
   "sizeBytes": 1892765,
-  "notes": "模型对比改为规格表式总表：按指标分列对照、每行最优值高亮，新增多模型能力雷达图、领先差距提示，并记住上次对比选择；收藏修复与增强：星标连点不再丢操作，收藏列表显示厂商与成绩，对比选择器里可直接收藏且实时同步。",
+  "notes": "收藏入口移入设置页，底部导航精简为五项；APK 下载增加缓存穿透，避免发版初期校验失败。",
   "iosVersionCode": 35,
   "iosVersionName": "0.14.1",
   "iosNotes": "iOS 版本号与 Android 同步到 v0.14.1；启动时自动检查榜单更新，设置页新增应用更新检查。",
