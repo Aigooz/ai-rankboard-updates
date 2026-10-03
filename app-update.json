@@ -1,7 +1,7 @@
 {
-  "versionCode": 12,
-  "versionName": "0.9.3",
+  "versionCode": 13,
+  "versionName": "0.9.4",
   "apkUrl": "https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk",
-  "sha256": "F0C04C1CC9AAECF60B521BCB9F6BFDCA99E57DEDE1F9DC91BAC8F913777E8AA4",
-  "notes": "新增 LiveBench 与 SWE-bench 数据源、来源筛选和数学/数据分析榜单，移除开屏动画"
+  "sha256": "F9F80B5AD0485E3B74C2236C88F118228B699FBB667DE9572370EB86991B2480",
+  "notes": "界面全面精简：筛选收纳进底部面板，榜单行和详情页更紧凑，长模型名与推理强度显示更稳定"
 }
