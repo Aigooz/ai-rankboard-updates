@@ -1,8 +1,8 @@
 {
-  "versionCode": 26,
-  "versionName": "0.10.7",
+  "versionCode": 27,
+  "versionName": "0.10.8",
   "apkUrl": "https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk",
-  "sha256": "772733777A0ABF02B401CF68AE4872E4CBE0536B3DD27715EE91326502F111DC",
-  "sizeBytes": 1810841,
-  "notes": "修复 gzjy.me 等模型广场地址识别：自动读取公开 model-plaza 接口，并兼容 OpenAI /v1/models。"
+  "sha256": "E592E6031CE078FCFB021D73D753CECE80617FF8F2EF747C7BEA5C9323D84D1D",
+  "sizeBytes": 1827229,
+  "notes": "中转站排名新增价格整理：展示分组倍率、实付价和官方价，并计算同币种实付与官方的价格差距。"
 }
