@@ -1,8 +1,8 @@
 {
-  "versionCode": 18,
-  "versionName": "0.9.9",
+  "versionCode": 19,
+  "versionName": "0.10.0",
   "apkUrl": "https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk",
-  "sha256": "9D827F80678203D317174EE78D77D1B345915AA5A6367151776D52270414284D",
-  "sizeBytes": 1786981,
-  "notes": "优化顶部栏高度，榜单页签贴边显示"
+  "sha256": "0DFCF2CB212BB6B81A26F8A64227C009940C14A9A9D80F393444628BD26FA1BA",
+  "sizeBytes": 1793805,
+  "notes": "榜单卡片改为显示模型发布时间，数据更新时间移到顶部；详情页新增发布时间字段。"
 }
