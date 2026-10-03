@@ -1,14 +1,14 @@
 {
-  "versionCode": 39,
-  "versionName": "0.15.3",
+  "versionCode": 40,
+  "versionName": "0.15.4",
   "apkUrl": "https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk",
   "mirrorUrls": [
     "https://ghfast.top/https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk",
     "https://gh-proxy.com/https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk"
   ],
-  "sha256": "8177BA4B198FCFE0369DC54183CC006578C01E97086DAF601B96F41DE13C1827",
+  "sha256": "216C2AF5756A32661CD38DCBE7F10B8BED3972E3BE89A69DBD6A384F698ED8AA",
   "sizeBytes": 1876381,
-  "notes": "首页收藏按钮移至模型详情页，列表获得更多展示空间；模型发布时间固定显示，不再被截断。",
+  "notes": "模型对比全面重构：新增能力与榜单分层选择，模型卡片展示得分、价格、发布时间，全维度矩阵逐榜高亮领先项。",
   "iosVersionCode": 35,
   "iosVersionName": "0.14.1",
   "iosNotes": "iOS 版本号与 Android 同步到 v0.14.1；启动时自动检查榜单更新，设置页新增应用更新检查。",
