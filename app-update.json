@@ -1,7 +1,7 @@
 {
-  "versionCode": 9,
-  "versionName": "0.9.0",
+  "versionCode": 10,
+  "versionName": "0.9.1",
   "apkUrl": "https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk",
-  "sha256": "A745267E3BB3743393E4FBD9B371FE3AB7A8FDC743A85B7BFE272987D045E8CC",
-  "notes": "新增自动检查更新与后台下载"
+  "sha256": "0D0E710533D736CD7B943DDD20DC04CE33D42E90A8FCDBEAD42A023953A4C4F7",
+  "notes": "优化模型名称与强度显示"
 }
