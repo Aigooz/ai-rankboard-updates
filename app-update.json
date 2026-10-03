@@ -1,8 +1,8 @@
 {
-  "versionCode": 17,
-  "versionName": "0.9.8",
+  "versionCode": 18,
+  "versionName": "0.9.9",
   "apkUrl": "https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk",
-  "sha256": "84FDD928EBA551ACBC62B499B2F20DF3CE93E28BB18242DDEF97D234AAE58DAF",
+  "sha256": "9D827F80678203D317174EE78D77D1B345915AA5A6367151776D52270414284D",
   "sizeBytes": 1786981,
-  "notes": "新增应用更新弹窗，启动时直接展示版本、更新说明和安装包大小"
+  "notes": "优化顶部栏高度，榜单页签贴边显示"
 }
