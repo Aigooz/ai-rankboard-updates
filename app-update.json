@@ -1,7 +1,7 @@
 {
-  "versionCode": 14,
-  "versionName": "0.9.5",
+  "versionCode": 15,
+  "versionName": "0.9.6",
   "apkUrl": "https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk",
-  "sha256": "EF491C070B2024E108E2EB9154E8AD6014E0BB7E96AA45484361743CBC16607F",
-  "notes": "重做模型对比：支持搜索添加 2-4 个模型、切换榜单、统一指标矩阵，并自动高亮领先项"
+  "sha256": "1A01DF7FB681DAEBE41BCA405492169068758B152ED5868CA7CD52C7043B8025",
+  "notes": "优化模型对比选择器：收藏模型独立页签，候选模型按厂商分组，搜索更易用"
 }
