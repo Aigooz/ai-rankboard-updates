@@ -1,14 +1,14 @@
 {
-  "versionCode": 40,
-  "versionName": "0.15.4",
+  "versionCode": 41,
+  "versionName": "0.15.5",
   "apkUrl": "https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk",
   "mirrorUrls": [
     "https://ghfast.top/https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk",
     "https://gh-proxy.com/https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk"
   ],
-  "sha256": "216C2AF5756A32661CD38DCBE7F10B8BED3972E3BE89A69DBD6A384F698ED8AA",
+  "sha256": "2585FFED8B541D8B35C1FF6FC0A11B30FDDC2E5B76606CDEBCB38F8DF3192BD1",
   "sizeBytes": 1876381,
-  "notes": "模型对比全面重构：新增能力与榜单分层选择，模型卡片展示得分、价格、发布时间，全维度矩阵逐榜高亮领先项。",
+  "notes": "修复更新检查在部分网络下读取旧清单的问题：更新清单增加缓存穿透和镜像回退；包含模型对比全面重构。",
   "iosVersionCode": 35,
   "iosVersionName": "0.14.1",
   "iosNotes": "iOS 版本号与 Android 同步到 v0.14.1；启动时自动检查榜单更新，设置页新增应用更新检查。",
