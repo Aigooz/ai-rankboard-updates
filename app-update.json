@@ -1,7 +1,7 @@
 {
-  "versionCode": 13,
-  "versionName": "0.9.4",
+  "versionCode": 14,
+  "versionName": "0.9.5",
   "apkUrl": "https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk",
-  "sha256": "F9F80B5AD0485E3B74C2236C88F118228B699FBB667DE9572370EB86991B2480",
-  "notes": "界面全面精简：筛选收纳进底部面板，榜单行和详情页更紧凑，长模型名与推理强度显示更稳定"
+  "sha256": "EF491C070B2024E108E2EB9154E8AD6014E0BB7E96AA45484361743CBC16607F",
+  "notes": "重做模型对比：支持搜索添加 2-4 个模型、切换榜单、统一指标矩阵，并自动高亮领先项"
 }
