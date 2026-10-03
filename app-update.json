@@ -1,8 +1,8 @@
 {
-  "versionCode": 24,
-  "versionName": "0.10.5",
+  "versionCode": 25,
+  "versionName": "0.10.6",
   "apkUrl": "https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk",
-  "sha256": "77E0B4AE8D64231ED023CEEF0BF196054577E6A0FCD571D31ED256A1D429FFBF",
-  "sizeBytes": 1794461,
-  "notes": "修复搜索后模型排名被重新编号的问题，现在会保留模型在原始榜单中的排名。"
+  "sha256": "D0746F1561F3F53E62623B3FC632BC10B1A49A0732FD30929335AA29FF215126",
+  "sizeBytes": 1810845,
+  "notes": "新增中转站模型排名功能，可输入模型广场地址评估中转站模型实力。"
 }
