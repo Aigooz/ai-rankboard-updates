@@ -4,5 +4,9 @@
   "apkUrl": "https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk",
   "sha256": "52CC3825EB418D52744D76BC0498182C62E5E663CCA7D502F717D498B3FFD734",
   "sizeBytes": 1876377,
-  "notes": "成本预估单位统一为百万 token，减少大数字输入。"
+  "notes": "成本预估单位统一为百万 token，减少大数字输入。",
+  "iosVersionCode": 35,
+  "iosVersionName": "0.14.1",
+  "iosNotes": "iOS 版本号与 Android 同步到 v0.14.1；启动时自动检查榜单更新，设置页新增应用更新检查。",
+  "iosInstallUrl": "https://github.com/Aigooz/ai-rankboard/actions/workflows/ios.yml"
 }
