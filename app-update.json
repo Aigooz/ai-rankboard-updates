@@ -1,8 +1,8 @@
 {
-  "versionCode": 27,
-  "versionName": "0.10.8",
+  "versionCode": 28,
+  "versionName": "0.10.9",
   "apkUrl": "https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk",
-  "sha256": "E592E6031CE078FCFB021D73D753CECE80617FF8F2EF747C7BEA5C9323D84D1D",
+  "sha256": "31523FF75A77EDBCA4C66E2FD10F83FF54C87CA6A3E740CC5C31185B070DF4B2",
   "sizeBytes": 1827229,
-  "notes": "中转站排名新增价格整理：展示分组倍率、实付价和官方价，并计算同币种实付与官方的价格差距。"
+  "notes": "优化中转站价格展示：列表更简洁，完整价格对比移入详情；名次三位数不再换行；得分按 0-100 分渐变显示。"
 }
