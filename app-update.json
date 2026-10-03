@@ -1,8 +1,8 @@
 {
-  "versionCode": 30,
-  "versionName": "0.11.1",
+  "versionCode": 31,
+  "versionName": "0.12.0",
   "apkUrl": "https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk",
-  "sha256": "32A4DB0FE475DF916C623C7457D6DAA9B7CDDA5B6527645137BCF4EC1699606A",
+  "sha256": "142E671C01D28EF78BB7D0A38B575A9F4FB9A9688B2F1ABDC9A2C20AB2B077F4",
   "sizeBytes": 1827229,
-  "notes": "筛选升级：厂商、许可、参数支持多选；开源筛选改为合并模型主数据，修复选开源后列表为空的问题。"
+  "notes": "详情页新增多榜单能力雷达图；分数颜色改为同榜单内相对比例渐变，避免高量纲榜单全部显示绿色。"
 }
