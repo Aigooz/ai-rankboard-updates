@@ -1,7 +1,7 @@
 {
-  "versionCode": 11,
-  "versionName": "0.9.2",
+  "versionCode": 12,
+  "versionName": "0.9.3",
   "apkUrl": "https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk",
-  "sha256": "F286276AD364A95FAF9166E9FF10B310F75A0F2E9AACE4FE903A4BB90ED52785",
-  "notes": "修复应用更新通道，无需手动配置"
+  "sha256": "8D64056A7F3DF1743E9CAC3779592C083B449C720F49CC547BC200CA00E71F22",
+  "notes": "新增 LiveBench 与 SWE-bench 数据源、来源筛选和数学/数据分析榜单，移除开屏动画"
 }
