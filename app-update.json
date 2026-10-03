@@ -1,14 +1,14 @@
 {
-  "versionCode": 44,
-  "versionName": "0.17.0",
+  "versionCode": 45,
+  "versionName": "0.17.1",
   "apkUrl": "https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk",
   "mirrorUrls": [
     "https://ghfast.top/https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk",
     "https://gh-proxy.com/https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk"
   ],
-  "sha256": "D09EDCB9628E5581A85EFA12D6B7DF88A7648FCF17B8BD47286C7282283ACDC7",
-  "sizeBytes": 1931133,
-  "notes": "新增：首页价格区间筛选与免费模型过滤、选型页同档最便宜与能力-价格全景散点图、最近上新与新增模型通知；新增 SWE-bench 多语言榜，刷新全部榜单数据。",
+  "sha256": "E7F8C5B6AF3E18DB818A17A4003F51BEC4670B248EFD82C44F4B2FC324A9D3B4",
+  "sizeBytes": 1908717,
+  "notes": "修复模型列表出现重复分身的问题：榜单保存时替换旧数据、同名次残留去重，并清理孤儿模型；同时刷新了全部榜单数据。",
   "iosVersionCode": 35,
   "iosVersionName": "0.14.1",
   "iosNotes": "iOS 版本号与 Android 同步到 v0.14.1；启动时自动检查榜单更新，设置页新增应用更新检查。",
