@@ -1,8 +1,8 @@
 {
-  "versionCode": 22,
-  "versionName": "0.10.3",
+  "versionCode": 23,
+  "versionName": "0.10.4",
   "apkUrl": "https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk",
-  "sha256": "C7351384A193947A581E0A27F6BE22741F98FFC0A378A94D17C3BA47024BD6DC",
+  "sha256": "E175F26E712FAD8DE52939F291DC8BF180F3C9F2ADF45F99CCADCCC53F36F3D9",
   "sizeBytes": 1794461,
-  "notes": "启用全屏无边距渲染，顶部背景贴合状态栏；同时优化应用内更新体验。"
+  "notes": "修复首页顶部出现双倍状态栏间距的问题，移除多余标题占位，让搜索框更贴近屏幕顶部。"
 }
