@@ -1,8 +1,8 @@
 {
-  "versionCode": 20,
-  "versionName": "0.10.1",
+  "versionCode": 21,
+  "versionName": "0.10.2",
   "apkUrl": "https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk",
-  "sha256": "97F1FCE1084DAE6CDABA4E46F8D357E6045F9309A02941E82EF8AAEDD64FB732",
-  "sizeBytes": 1793805,
-  "notes": "新增月榜、季榜、年榜，可按发布时间回看不同月份、季度和年度的综合排名。"
+  "sha256": "2F76139149A9D752C46EA1558125E116A6D6FDF5F31692227CDF1BCA94CD5C46",
+  "sizeBytes": 1794461,
+  "notes": "默认优先展示 ModelSage 数据；应用内更新增加下载进度、速度和大小；压缩顶部栏并更新应用图标。"
 }
