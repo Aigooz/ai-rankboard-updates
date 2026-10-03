@@ -1,8 +1,8 @@
 {
-  "versionCode": 31,
-  "versionName": "0.12.0",
+  "versionCode": 32,
+  "versionName": "0.12.1",
   "apkUrl": "https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk",
-  "sha256": "142E671C01D28EF78BB7D0A38B575A9F4FB9A9688B2F1ABDC9A2C20AB2B077F4",
-  "sizeBytes": 1827229,
-  "notes": "详情页新增多榜单能力雷达图；分数颜色改为同榜单内相对比例渐变，避免高量纲榜单全部显示绿色。"
+  "sha256": "BD3A7F614BA43716BADD5745515C9C1EC5A8988D9444C64464FA357F2C23E788",
+  "sizeBytes": 1843613,
+  "notes": "重做模型详情能力雷达：显示维度、百分位与排名，优化标签排版、渐变填充和数据来源展示。"
 }
