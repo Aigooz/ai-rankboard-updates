@@ -1,14 +1,14 @@
 {
-  "versionCode": 56,
-  "versionName": "0.20.6",
+  "versionCode": 57,
+  "versionName": "0.20.7",
   "apkUrl": "https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk",
   "mirrorUrls": [
     "https://ghfast.top/https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk",
     "https://gh-proxy.com/https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk"
   ],
-  "sha256": "AFEF621A06558181A0EAF584E2F1015E7A3932FC936F9E5E126F31553DE68566",
+  "sha256": "E71144C1931CAA6545B50C9EF19E36B85137B79F0907830E16AEF2EA73123651",
   "sizeBytes": 1910081,
-  "notes": "选型页升级：新增官方性价比榜、按需求场景的能力与省钱替代推荐，并补充价格分档价差信息。",
+  "notes": "修复趋势页模型行点击后无法打开详情页的问题。",
   "iosVersionCode": 35,
   "iosVersionName": "0.14.1",
   "iosNotes": "iOS 版本号与 Android 同步到 v0.14.1；启动时自动检查榜单更新，设置页新增应用更新检查。",
