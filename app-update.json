@@ -1,14 +1,14 @@
 {
-  "versionCode": 51,
-  "versionName": "0.20.1",
+  "versionCode": 52,
+  "versionName": "0.20.2",
   "apkUrl": "https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk",
   "mirrorUrls": [
     "https://ghfast.top/https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk",
     "https://gh-proxy.com/https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk"
   ],
-  "sha256": "77DA854B94C5AB0E52C6AC924FAE3C04A302B48DB3DDA9D3142D409250F5FAFB",
+  "sha256": "0FCDE3B87DA23C9E6C3255EFD74B0709CB0EB1B96C6E73862B868D71BB1962F2",
   "sizeBytes": 1893697,
-  "notes": "首页筛选重做：榜单与排序提升为顶部快捷芯片，弹层精简为多选筛选并支持滚动；移除选型页全部模型总表。",
+  "notes": "筛选弹层重做：排序、榜单/时间区间、厂商、许可全部收进弹层并显示已选数量；移除参数量与价格区间筛选。",
   "iosVersionCode": 35,
   "iosVersionName": "0.14.1",
   "iosNotes": "iOS 版本号与 Android 同步到 v0.14.1；启动时自动检查榜单更新，设置页新增应用更新检查。",
