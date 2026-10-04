@@ -1,14 +1,14 @@
 {
-  "versionCode": 52,
-  "versionName": "0.20.2",
+  "versionCode": 53,
+  "versionName": "0.20.3",
   "apkUrl": "https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk",
   "mirrorUrls": [
     "https://ghfast.top/https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk",
     "https://gh-proxy.com/https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk"
   ],
-  "sha256": "0FCDE3B87DA23C9E6C3255EFD74B0709CB0EB1B96C6E73862B868D71BB1962F2",
+  "sha256": "7AA90BD05ED110F9A716F49D78A010D8B208DC7C2D40F1538836F9061CA6B564",
   "sizeBytes": 1893697,
-  "notes": "筛选弹层重做：排序、榜单/时间区间、厂商、许可全部收进弹层并显示已选数量；移除参数量与价格区间筛选。",
+  "notes": "修复更新包下载校验、后台更新通知安装、翻页缓存清空、空态提示和 LiveBench 数据源失效问题；增强服务端刷新鉴权。",
   "iosVersionCode": 35,
   "iosVersionName": "0.14.1",
   "iosNotes": "iOS 版本号与 Android 同步到 v0.14.1；启动时自动检查榜单更新，设置页新增应用更新检查。",
