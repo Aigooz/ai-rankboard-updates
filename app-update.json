@@ -1,14 +1,14 @@
 {
-  "versionCode": 49,
-  "versionName": "0.19.0",
+  "versionCode": 50,
+  "versionName": "0.20.0",
   "apkUrl": "https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk",
   "mirrorUrls": [
     "https://ghfast.top/https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk",
     "https://gh-proxy.com/https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk"
   ],
-  "sha256": "A009B12F54EE33F7BEC483C84F20DF587BE9F5A2DAB5286B5629A8A8E6C1F7B1",
-  "sizeBytes": 1893697,
-  "notes": "趋势页新增行业资讯：聚合 Artificial Analysis 的模型评测与行业分析文章，点击跳原文；快照含新闻数据。",
+  "sha256": "BFCA5490949A4A4017B3DA9D39CFFE9E9CBBD81382A4DDF89F7C9C61130D4452",
+  "sizeBytes": 1910081,
+  "notes": "选型页新增全部模型总表：可按综合智能/响应速度/价格/发布时间排序，支持开源闭源筛选，借鉴 Artificial Analysis 模型对比页。",
   "iosVersionCode": 35,
   "iosVersionName": "0.14.1",
   "iosNotes": "iOS 版本号与 Android 同步到 v0.14.1；启动时自动检查榜单更新，设置页新增应用更新检查。",
