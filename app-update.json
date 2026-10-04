@@ -1,14 +1,14 @@
 {
-  "versionCode": 47,
-  "versionName": "0.18.0",
+  "versionCode": 48,
+  "versionName": "0.18.1",
   "apkUrl": "https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk",
   "mirrorUrls": [
     "https://ghfast.top/https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk",
     "https://gh-proxy.com/https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk"
   ],
-  "sha256": "3DD87296E914EACC413EEA346E2157347B0BC7A885D6EF75E755F808D48763AE",
-  "sizeBytes": 1892985,
-  "notes": "新增趋势页：网关真实用量榜与价格分布；选型页散点图升级为五指标切换、气泡大小=响应速度、厂商配色。",
+  "sha256": "A3A97B9851E4CC570C11E8F581AC0A630B1A9773169B1CF3F66FAB22BD786BDE",
+  "sizeBytes": 1893037,
+  "notes": "数据更新机制落地：内置默认快照源，GitHub Actions 每 6 小时自动抓取发布，数据无需等 APK；快照时间戳改为北京时间。",
   "iosVersionCode": 35,
   "iosVersionName": "0.14.1",
   "iosNotes": "iOS 版本号与 Android 同步到 v0.14.1；启动时自动检查榜单更新，设置页新增应用更新检查。",
