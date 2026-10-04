@@ -6,9 +6,9 @@
     "https://ghfast.top/https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk",
     "https://gh-proxy.com/https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk"
   ],
-  "sha256": "A3A97B9851E4CC570C11E8F581AC0A630B1A9773169B1CF3F66FAB22BD786BDE",
+  "sha256": "F1BF9CE0A955233801C4B3D942D2410F7A2C7743EDDEBFCF954F3983CE372E72",
   "sizeBytes": 1893037,
-  "notes": "数据更新机制落地：内置默认快照源，GitHub Actions 每 6 小时自动抓取发布，数据无需等 APK；快照时间戳改为北京时间。",
+  "notes": "数据更新机制落地：内置默认快照源（公开更新仓库），GitHub Actions 每 6 小时自动抓取发布，数据无需等 APK；快照时间戳改为北京时间。",
   "iosVersionCode": 35,
   "iosVersionName": "0.14.1",
   "iosNotes": "iOS 版本号与 Android 同步到 v0.14.1；启动时自动检查榜单更新，设置页新增应用更新检查。",
