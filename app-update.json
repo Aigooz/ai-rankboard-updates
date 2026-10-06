@@ -1,14 +1,14 @@
 {
-  "versionCode": 60,
-  "versionName": "0.20.10",
+  "versionCode": 61,
+  "versionName": "0.20.11",
   "apkUrl": "https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk",
   "mirrorUrls": [
     "https://ghfast.top/https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk",
     "https://gh-proxy.com/https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk"
   ],
-  "sha256": "14C7792E77E359186F2AE316701075FB7C4D34AB7298D17FC9B741D958DC769D",
-  "sizeBytes": 1926465,
-  "notes": "已保存中转站地址改为下拉菜单；移除访问密钥输入与存储。",
+  "sha256": "F046D51A42D08F9BE41CE161BA426427C3EE4A2E05A27052D556BFC2F335EDA9",
+  "sizeBytes": 1926801,
+  "notes": "修复实时榜单更新：快照改为主仓库直连发布，并修正校验地址拼接。",
   "iosVersionCode": 35,
   "iosVersionName": "0.14.1",
   "iosNotes": "iOS 版本号与 Android 同步到 v0.14.1；启动时自动检查榜单更新，设置页新增应用更新检查。",
