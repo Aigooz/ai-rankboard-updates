@@ -1,14 +1,14 @@
 {
-  "versionCode": 58,
-  "versionName": "0.20.8",
+  "versionCode": 59,
+  "versionName": "0.20.9",
   "apkUrl": "https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk",
   "mirrorUrls": [
     "https://ghfast.top/https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk",
     "https://gh-proxy.com/https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk"
   ],
-  "sha256": "017D677D7D289F6EB398A21CB3896C12FD15F050774E9CFE00813148E9E199AD",
+  "sha256": "F976E4BFE5B33EC5FC9043C36EEC3787BD17C9AAB73FC5019602B8E0052C1925",
   "sizeBytes": 1910081,
-  "notes": "修复快照自动更新不积极的问题；启动时自动补做到期检查，周期更新不再受提醒开关影响。",
+  "notes": "中转站支持记住多个 API 地址；点击历史地址会自动填入并重新生成排名。",
   "iosVersionCode": 35,
   "iosVersionName": "0.14.1",
   "iosNotes": "iOS 版本号与 Android 同步到 v0.14.1；启动时自动检查榜单更新，设置页新增应用更新检查。",
