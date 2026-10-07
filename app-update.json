@@ -1,14 +1,14 @@
 {
-  "versionCode": 61,
-  "versionName": "0.20.11",
+  "versionCode": 62,
+  "versionName": "0.20.12",
   "apkUrl": "https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk",
   "mirrorUrls": [
     "https://ghfast.top/https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk",
     "https://gh-proxy.com/https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk"
   ],
-  "sha256": "F046D51A42D08F9BE41CE161BA426427C3EE4A2E05A27052D556BFC2F335EDA9",
-  "sizeBytes": 1926801,
-  "notes": "修复实时榜单更新：快照改为主仓库直连发布，并修正校验地址拼接。",
+  "sha256": "C19B7479DE6F29ECBA69A3B63CBFD78706C4AE547200724460593054FD5398C7",
+  "sizeBytes": 1929585,
+  "notes": "修复应用更新提醒：后台发现新版本时立即通知，不再等待 APK 完整下载。",
   "iosVersionCode": 35,
   "iosVersionName": "0.14.1",
   "iosNotes": "iOS 版本号与 Android 同步到 v0.14.1；启动时自动检查榜单更新，设置页新增应用更新检查。",
