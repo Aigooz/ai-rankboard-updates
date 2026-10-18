@@ -1,14 +1,14 @@
 {
-  "versionCode": 66,
-  "versionName": "0.20.16",
+  "versionCode": 67,
+  "versionName": "0.20.17",
   "apkUrl": "https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk",
   "mirrorUrls": [
     "https://ghfast.top/https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk",
     "https://gh-proxy.com/https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk"
   ],
-  "sha256": "53439A4C70F1F892DBCBEC3763A87BF12FE83A69F435AF735B8790FC72E0003A",
-  "sizeBytes": 1945621,
-  "notes": "重做更新中心：无需填写地址，默认连接官方更新源。榜单同步和应用更新分别设置提醒，显示数据时间、检查时间与结果，提供立即同步和新版本入口。新增系统通知及通知分类关闭状态提示。检查版本不再要求安装权限，安装时授权并自动继续；关闭提醒仍可手动检查，点击通知可重新打开更新弹窗。修复同步频率未生效、后台空地址未回退和下载校验失败后不切换备用源的问题。",
+  "sha256": "f64f83b997b1f8cea32848da36c97089afdd454bce35cafb156f041b912b7e44",
+  "sizeBytes": 1948373,
+  "notes": "完善榜单来源、指标解释、评测版本与跨榜比较提示，区分快照生成、成功抓取和上游更新时间。新增缓存过期、抓取失败、异常变化及同版本真实历史观测展示；缺失信息不伪造。沿用原发布签名，可覆盖升级。未完成真机覆盖安装验收。",
   "iosVersionCode": 35,
   "iosVersionName": "0.14.1",
   "iosNotes": "iOS 版本号与 Android 同步到 v0.14.1；启动时自动检查榜单更新，设置页新增应用更新检查。",
