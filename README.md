@@ -4,7 +4,7 @@
 
 **[下载正式 Android APK](https://github.com/Aigooz/ai-rankboard/releases/latest/download/app-release.apk)** · [版本说明](https://github.com/Aigooz/ai-rankboard/releases/latest) · [项目源码](https://github.com/Aigooz/ai-rankboard) · [网页版](https://aigooz.github.io/ai-rankboard/)
 
-当前 Android 版本：**0.20.19**（versionCode 69），Android 8.0+，包名 `com.ai.rankboard`。
+当前 Android 版本：**0.20.20**（versionCode 70），Android 8.0+，包名 `com.ai.rankboard`。
 
 ## 备用下载与文件说明
 

@@ -1,14 +1,14 @@
 {
-  "versionCode": 69,
-  "versionName": "0.20.19",
+  "versionCode": 70,
+  "versionName": "0.20.20",
   "apkUrl": "https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk",
   "mirrorUrls": [
     "https://ghfast.top/https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk",
     "https://gh-proxy.com/https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk"
   ],
-  "sha256": "e2a2f472f3488028c167498422607c1c2be9ecc7c294c8c55f5d766e10300d90",
-  "sizeBytes": 2018296,
-  "notes": "行业资讯改为应用内原生阅读，不再依赖WebView；正文随快照抓取，最新6篇可原生阅读，其余显示未获取并可打开原文。沿用原发布签名，可覆盖升级；未完成真机覆盖安装验收。",
+  "sha256": "ab61e300e40098090e84a6f8e874266c1a533b9b12d5c0e3a76d329b6b8bfc36",
+  "sizeBytes": 2037252,
+  "notes": "新增HLE（Humanity's Last Exam）测评：官网公开的原版9条与HLE-Diamond 8条成绩，附测评说明与官方公开示例题。沿用原发布签名，可覆盖升级；未完成真机覆盖安装验收。",
   "iosVersionCode": 35,
   "iosVersionName": "0.14.1",
   "iosNotes": "iOS 版本号与 Android 同步到 v0.14.1；启动时自动检查榜单更新，设置页新增应用更新检查。",
