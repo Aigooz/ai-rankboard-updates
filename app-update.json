@@ -1,14 +1,14 @@
 {
-  "versionCode": 70,
-  "versionName": "0.20.20",
+  "versionCode": 71,
+  "versionName": "0.20.21",
   "apkUrl": "https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk",
   "mirrorUrls": [
     "https://ghfast.top/https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk",
     "https://gh-proxy.com/https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk"
   ],
-  "sha256": "ab61e300e40098090e84a6f8e874266c1a533b9b12d5c0e3a76d329b6b8bfc36",
+  "sha256": "f7eaf1c40fdace595d2eb6e707b781298b6ceeaf93bb9f395a5bc1b7a9dd0b77",
   "sizeBytes": 2037252,
-  "notes": "新增HLE（Humanity's Last Exam）测评：官网公开的原版9条与HLE-Diamond 8条成绩，附测评说明与官方公开示例题。沿用原发布签名，可覆盖升级；未完成真机覆盖安装验收。",
+  "notes": "修复更新下载被\"过慢\"误打断的问题，慢网络下下载持续到完成；HLE首页直达入口与推理榜优先排序。沿用原发布签名，可覆盖升级；未完成真机覆盖安装验收。",
   "iosVersionCode": 35,
   "iosVersionName": "0.14.1",
   "iosNotes": "iOS 版本号与 Android 同步到 v0.14.1；启动时自动检查榜单更新，设置页新增应用更新检查。",
