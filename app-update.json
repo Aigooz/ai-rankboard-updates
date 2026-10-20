@@ -1,14 +1,14 @@
 {
-  "versionCode": 73,
-  "versionName": "0.20.23",
+  "versionCode": 74,
+  "versionName": "0.20.24",
   "apkUrl": "https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk",
   "mirrorUrls": [
     "https://ghfast.top/https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk",
     "https://gh-proxy.com/https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk"
   ],
-  "sha256": "1936d79474da04359d0c7cd6c8c5ed061f9a514031ab38775e5ed462421c9151",
-  "sizeBytes": 2045656,
-  "notes": "完善模型详情：规格清晰、各榜成绩来源与抓取时间、同厂商模型跳转；无当前成绩的模型也可打开。价格缺失不按零计算，雷达默认折叠且不计算跨榜能力均值。沿用原发布签名；未完成真机覆盖安装及Android真机视觉验收。",
+  "sha256": "c8f1ce560d8146e295e97ea61ee0db5483a81dd49c26e700cea8abd127886499",
+  "sizeBytes": 2047952,
+  "notes": "重做详情重点：主要成绩优先、次要资料与完整成绩折叠；首页快照日期完整小号显示；趋势用量资讯优先，冗长历史说明折叠。修复发布日期补抓，新增109个模型明确日期并保留出处。沿用原签名；未完成Android真机覆盖安装及运行时视觉验收。",
   "iosVersionCode": 35,
   "iosVersionName": "0.14.1",
   "iosNotes": "iOS 版本号与 Android 同步到 v0.14.1；启动时自动检查榜单更新，设置页新增应用更新检查。",
