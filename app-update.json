@@ -1,14 +1,14 @@
 {
-  "versionCode": 75,
-  "versionName": "0.20.25",
+  "versionCode": 76,
+  "versionName": "0.20.26",
   "apkUrl": "https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk",
   "mirrorUrls": [
     "https://ghfast.top/https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk",
     "https://gh-proxy.com/https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk"
   ],
-  "sha256": "d5d574f46c58d8091eb59f7cab18b36b4541c9f3494f9936334eaaa200bd9715",
-  "sizeBytes": 2055316,
-  "notes": "修复中转站地址以 /v1 结尾时遇到 401 无法读取模型的问题，自动尝试公开价格目录和模型广场，不需要填写访问密钥。兼容 New API 模型列表，不把倍率误当实际价格；读取失败时清除旧结果并明确提示。实际站点已读到12个模型，100项单元测试通过，沿用原签名；尚未完成Android真机覆盖安装与运行验证。",
+  "sha256": "d9464414554a343fb1d386299e3af3814729ec7ed96b26c9dde9de0c3a35ad51",
+  "sizeBytes": 2061432,
+  "notes": "优化榜单同步：先校验再下载，未变化时跳过整份快照；并行探测数据源，官方地址超时后自动切换镜像。支持取消慢请求，缩短连接超时，失败保留旧榜单并自动重试；新增连接、下载与解析进度。默认每6小时检查，保留用户已有频率设置。沿用原发布签名；单元测试、Release构建、签名与对齐校验通过，尚未完成Android真机覆盖安装与运行验收。",
   "iosVersionCode": 35,
   "iosVersionName": "0.14.1",
   "iosNotes": "iOS 版本号与 Android 同步到 v0.14.1；启动时自动检查榜单更新，设置页新增应用更新检查。",
