@@ -6,8 +6,8 @@
     "https://ghfast.top/https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk",
     "https://gh-proxy.com/https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk"
   ],
-  "sha256": "52b57abec472f401be593a57f2899706dcd5f690bc9dde44f96d73d60352d6f4",
-  "sizeBytes": 2061432,
+  "sha256": "0c007bdfad527b59a44ee7b55917468b0f29f783f7f726701ce92460f1321fa1",
+  "sizeBytes": 2066524,
   "notes": "Android 首页与模型详情视觉优化，榜单成绩和规格信息层级更清晰；优化离线详情榜单索引与模型查询性能。沿用原发布签名。",
   "iosVersionCode": 35,
   "iosVersionName": "0.14.1",
