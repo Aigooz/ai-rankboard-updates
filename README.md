@@ -4,7 +4,7 @@
 
 **[下载正式 Android APK](https://github.com/Aigooz/ai-rankboard/releases/latest/download/app-release.apk)** · [版本说明](https://github.com/Aigooz/ai-rankboard/releases/latest) · [项目源码](https://github.com/Aigooz/ai-rankboard) · [网页版](https://aigooz.github.io/ai-rankboard/)
 
-当前 Android 版本：**0.20.29**（versionCode 79），Android 8.0+，包名 `com.ai.rankboard`。
+当前 Android 版本：**0.20.30**（versionCode 80），Android 8.0+，包名 `com.ai.rankboard`。
 
 ## 备用下载与文件说明
 
@@ -12,7 +12,7 @@
 - [app-update.json](https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-update.json)：应用版本、下载地址、SHA-256、文件大小及版本说明；保留旧客户端兼容字段。
 - `leaderboards.json` / `.sha256`：历史兼容快照。**当前榜单数据以主仓库的 [leaderboards.json](https://raw.githubusercontent.com/Aigooz/ai-rankboard/main/leaderboards.json) 为准**，不要用本仓库历史文件判断数据新鲜度。
 
-0.20.29 接入 OpenRouter 官方周 token 使用趋势，并退休固定历史版本的 Stanford HELM Classic。使用趋势仅反映 OpenRouter 聚合平台内的用量变化，不代表模型能力、质量、市场份额或全球调用量。
+0.20.30 将 OpenRouter 使用趋势移至独立“趋势”页，接入 LiveBench 2.0 当前题集的 8 个榜单，并修复 GPT6.2 搜索及筛选后速览名次。快照计划每小时采集，区分抓取时间与上游更新，不承诺实时。使用趋势不代表模型能力、质量、市场份额或全球调用量。
 
 新版 Android 已内置官方更新地址，不需要用户手动填写。系统通知和后台检查受 Android 权限、省电及网络限制，不是实时服务器推送。
 
