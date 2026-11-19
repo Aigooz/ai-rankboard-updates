@@ -1,16 +1,16 @@
 {
-  "versionCode": 78,
-  "versionName": "0.20.28",
+  "versionCode": 79,
+  "versionName": "0.20.29",
   "apkUrl": "https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk",
   "mirrorUrls": [
     "https://ghfast.top/https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk",
     "https://gh-proxy.com/https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk"
   ],
-  "sha256": "680331dfd6d56968246dd43ca48e5fa2a17772588e84913342a5148bd8711bbd",
-  "sizeBytes": 2059040,
-  "notes": "新增 BFCL V4、Terminal-Bench 4.1 和 Stanford HELM Classic 三张权威榜，当前 29 榜全部成功抓取。榜单页固定展示当前来源、指标单位、评测版本、记录数和抓取时效，明确区分历史评测与本站抓取时间；快照门禁会拒绝任一缺榜、空榜、失败或超过 48 小时的候选数据。Android 117 项单元测试、lint、release 构建及模拟器覆盖安装、启动和首页运行检查通过；沿用原签名。",
-  "iosVersionCode": 36,
-  "iosVersionName": "0.14.2",
-  "iosNotes": "iOS 版本号更新到 v0.14.2/36；修复模型对比默认选择、同名榜单 slug 排序与快照哈希预检查。产物仍未签名，需自行完成 Apple 签名与分发。",
+  "sha256": "5fb5f6dfac57225fd9eee3eab46ce942c9ee5d2d5f8a212a55dbf1c0d5be6f9e",
+  "sizeBytes": 2069928,
+  "notes": "退休固定历史版本的 Stanford HELM Classic，改用 OpenRouter 官方近期周 token 使用趋势。新增“使用趋势”专用视图，显示最近完整一周的 Top 10、周 token 量、相对量条、周环比和上游更新日期；该指标只代表 OpenRouter 聚合平台使用趋势，不代表模型能力、质量、市场份额或全球调用量，不进入能力雷达或跨榜总分。解析器拒绝超过 7 天的上游页面及与可见表格不一致的数据。Android 120 项单元测试通过，lint 与 release 构建成功；Web 34 项测试及真实浏览器 1440/390/320 宽度检查通过；沿用原签名。",
+  "iosVersionCode": 79,
+  "iosVersionName": "0.20.29",
+  "iosNotes": "iOS 版本号更新到 v0.20.29/79；接入 OpenRouter 周 token 使用趋势专用视图，并在模型详情中单独展示使用量与口径，不进入能力雷达或跨榜总分。产物仍未签名，需自行完成 Apple 签名与分发。",
   "iosInstallUrl": "https://github.com/Aigooz/ai-rankboard/actions/workflows/ios.yml"
 }
