@@ -1,16 +1,16 @@
 {
-  "versionCode": 77,
-  "versionName": "0.20.27",
+  "versionCode": 78,
+  "versionName": "0.20.28",
   "apkUrl": "https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk",
   "mirrorUrls": [
     "https://ghfast.top/https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk",
     "https://gh-proxy.com/https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk"
   ],
-  "sha256": "0c007bdfad527b59a44ee7b55917468b0f29f783f7f726701ce92460f1321fa1",
-  "sizeBytes": 2066524,
-  "notes": "Android 首页与模型详情视觉优化，榜单成绩和规格信息层级更清晰；优化离线详情榜单索引与模型查询性能。沿用原发布签名。",
-  "iosVersionCode": 35,
-  "iosVersionName": "0.14.1",
-  "iosNotes": "iOS 版本号与 Android 同步到 v0.14.1；启动时自动检查榜单更新，设置页新增应用更新检查。",
+  "sha256": "680331dfd6d56968246dd43ca48e5fa2a17772588e84913342a5148bd8711bbd",
+  "sizeBytes": 2059040,
+  "notes": "新增 BFCL V4、Terminal-Bench 4.1 和 Stanford HELM Classic 三张权威榜，当前 29 榜全部成功抓取。榜单页固定展示当前来源、指标单位、评测版本、记录数和抓取时效，明确区分历史评测与本站抓取时间；快照门禁会拒绝任一缺榜、空榜、失败或超过 48 小时的候选数据。Android 117 项单元测试、lint、release 构建及模拟器覆盖安装、启动和首页运行检查通过；沿用原签名。",
+  "iosVersionCode": 36,
+  "iosVersionName": "0.14.2",
+  "iosNotes": "iOS 版本号更新到 v0.14.2/36；修复模型对比默认选择、同名榜单 slug 排序与快照哈希预检查。产物仍未签名，需自行完成 Apple 签名与分发。",
   "iosInstallUrl": "https://github.com/Aigooz/ai-rankboard/actions/workflows/ios.yml"
 }
