@@ -1,14 +1,14 @@
 {
-  "versionCode": 81,
-  "versionName": "0.20.31",
+  "versionCode": 82,
+  "versionName": "0.20.32",
   "apkUrl": "https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk",
   "mirrorUrls": [
     "https://ghfast.top/https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk",
     "https://gh-proxy.com/https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk"
   ],
-  "sha256": "74a6914fb8cb134f77fa4c48e6611438e0b7bb6af0b2f014dd4645cbef1f8cd0",
-  "sizeBytes": 2104640,
-  "notes": "性能优化：改进网页搜索与榜单索引，Android 详情/分页索引复用并移至后台计算；后端在单次刷新内复用 LiveBench、SWE-bench、EvalPlus 公共源数据。Web 37 项、后端 84 项测试通过；Android 126 项通过、1 项跳过，lint 通过。沿用原发布签名。",
+  "sha256": "1398dabf936cfef93e239009bf93785171ca839e494f5eaccbaa048e678f691b",
+  "sizeBytes": 2104232,
+  "notes": "修复 LiveBench 2.0 模型名称重复显示版本标记；清理当前榜单、历史数据与内置快照中的旧标记，保留榜单及评测版本。后端 85 项、Web 37 项、发布脚本 6 项测试通过；Android 28 个测试类、lint 与正式签名构建通过。沿用原发布签名。",
   "iosVersionCode": 80,
   "iosVersionName": "0.20.30",
   "iosNotes": "iOS 源码版本为 v0.20.30/80，同步独立趋势页、GPT6.2 搜索及 LiveBench 2.0 数据。GitHub macOS runner 容量不足导致首次任务未执行，已重试，尚未验证构建；产物仍未签名，不是可直接安装的 iOS 正式版。",
