@@ -1,14 +1,14 @@
 {
-  "versionCode": 80,
-  "versionName": "0.20.30",
+  "versionCode": 81,
+  "versionName": "0.20.31",
   "apkUrl": "https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk",
   "mirrorUrls": [
     "https://ghfast.top/https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk",
     "https://gh-proxy.com/https://raw.githubusercontent.com/Aigooz/ai-rankboard-updates/main/app-release.apk"
   ],
-  "sha256": "e5504a188eecbf40cd83f6c8cde64a12ac7212c97eaa962c8a481d9d22ff1724",
-  "sizeBytes": 2099124,
-  "notes": "使用趋势移出首页，集中到独立“趋势”页，不进入能力总分。接入 LiveBench 2.0 当前题集的 8 个榜单，1.0 标记为历史题集；当前综合榜已包含 GPT-6.2 Astra 和 Sol。修复 GPT6.2 搜索及筛选后速览错误重排名次。快照计划每小时采集，成功榜独立更新，失败榜保留原数据和时间；修复定时快照到网页部署链路，不承诺上游实时发布。后端 81 项、Web 37 项及发布脚本 6 项测试通过；Android 126 项测试中 125 通过、1 项跳过，lint 0 错误、13 警告。已完成模拟器从 0.20.29 覆盖升级、收藏及设置保留检查，未完成物理真机验收。沿用原发布签名。",
+  "sha256": "74a6914fb8cb134f77fa4c48e6611438e0b7bb6af0b2f014dd4645cbef1f8cd0",
+  "sizeBytes": 2104640,
+  "notes": "性能优化：改进网页搜索与榜单索引，Android 详情/分页索引复用并移至后台计算；后端在单次刷新内复用 LiveBench、SWE-bench、EvalPlus 公共源数据。Web 37 项、后端 84 项测试通过；Android 126 项通过、1 项跳过，lint 通过。沿用原发布签名。",
   "iosVersionCode": 80,
   "iosVersionName": "0.20.30",
   "iosNotes": "iOS 源码版本为 v0.20.30/80，同步独立趋势页、GPT6.2 搜索及 LiveBench 2.0 数据。GitHub macOS runner 容量不足导致首次任务未执行，已重试，尚未验证构建；产物仍未签名，不是可直接安装的 iOS 正式版。",
